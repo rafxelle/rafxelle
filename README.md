@@ -1,4 +1,4 @@
-### Hi there I'm Rafaelle <img align="center" alt="Rafa-Photoshop" height="30" width="40"   src="https://user-images.githubusercontent.com/86078046/156011743-77edce2b-e57e-4a7a-b8f5-4a8b23031e77.png"/>
+### Hi there I'm Rafaelle <img align="center" alt="Rafa-Photoshop" height="30" width="40"   src="lala.gif"/>
 
 
 <div align="center">
