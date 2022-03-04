@@ -1,4 +1,4 @@
-### Hi there I'm Rafaelle <img align="center" alt="Rafa-Photoshop" height="30" width="40" src="lala.gif"/>
+### Hi there I'm Rafaelle <img align="center" alt="Rafa-Photoshop" height="50" width="50" src="lala.gif"/>
 
 
 <div align="center">
